@@ -1,9 +1,0 @@
----data---
-C:\Users\SSLabPowerfulJunior\OneDrive - nyu.edu\Research\Thesis\Qualifying Exam_2024 spring\written report\materials\phototoxicity
-
----laser power density---
-[data]
-D:\Rui_Zeng_Data\Nikon_Minaj\20241029_RZ_laser_power_density
-[calculation]
-"C:\Folder_for_Analysis\Rui_Zeng\2024_bug_in_capsule\figure_2\phototoxicity"
-
