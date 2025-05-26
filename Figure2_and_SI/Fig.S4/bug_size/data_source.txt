@@ -1,6 +1,0 @@
----data source---
-D:\Rui_Zeng_Data\Nikon_Minaj_bigdata\20240320_RZ_agar_WT_1st
-
----use MicrobeJ---
-see notes in
-"D:\Rui_Zeng_Data\Nikon_Minaj_bigdata\20240320_RZ_agar_WT_1st\processing_notes.txt"
