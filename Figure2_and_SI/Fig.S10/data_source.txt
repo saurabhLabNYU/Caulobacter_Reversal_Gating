@@ -1,9 +1,0 @@
---data--
-D:\Rui_Zeng_Data\Nikon_Minaj_bigdata\20240320_RZ_time_difference_1st\F108
-D:\Rui_Zeng_Data\Nikon_Minaj_bigdata\20241012_RZ_forward_only_1st\F108_effect
-
----to remove mixed tracks with sticking bugs--
-remove track if max-min >= 50 um/s
-
-
-
