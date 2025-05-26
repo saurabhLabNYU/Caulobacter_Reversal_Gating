@@ -1,0 +1,2 @@
+---data---
+"C:\Folder_for_Analysis\Rui_Zeng\Bug_in_Capsule_finding\processed_data\20230816_RZ_medium+huge_capsule_WT+nopili_2nd\manual_label\analysis_20240208\20230816_F20_WT_unique_pairs_combine_I15_5modes_pair1_85.csv"

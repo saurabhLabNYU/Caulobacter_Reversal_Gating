@@ -1,0 +1,6 @@
+---data source & code---
+[large capsules only, remove clusters]
+"D:\Rui_Zeng_Data\Nikon_Minaj_bigdata\20241119_RZ_filling_curve_2nd\filling_curve_analysis\capsule_diameter_reading_based_on_filling_curve.ipynb"
+
+[small capsules]
+"D:\Rui_Zeng_Data\Nikon_Minaj_bigdata\20230801_RZ_medium+huge_capsule\medium_size_characterization\capsule_radius_all_medium.csv"
