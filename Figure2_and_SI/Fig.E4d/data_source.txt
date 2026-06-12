@@ -1,4 +1,0 @@
-D:\Rui_Zeng_Data\Database\Separated_motion_modes
-"D:\Rui_Zeng_Data\temp\3D_tracking_application\batch_data"
-"D:\Rui_Zeng_Data\temp\3D_tracking_application\protocol\batch_3D_data_visualization_single_frame.ipynb"
-"D:\Rui_Zeng_Data\temp\3D_tracking_application\protocol\comparison_motion_modes.ipynb"
